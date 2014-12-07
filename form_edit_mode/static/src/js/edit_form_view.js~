@@ -1,0 +1,9 @@
+openerp.form_edit_mode = function (instance) {
+
+    instance.web.FormView.include({
+
+	    view_loading: function(r) {
+		return this._super(r);
+	    },
+
+};
