@@ -29,5 +29,4 @@
 	'category': 'Hidden',
 	'depends': ['base'],
 	'js': ['static/src/js/edit_form_view.js'],
-#    'css': ["static/src/css/editformview.css"],
 }

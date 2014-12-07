@@ -20,9 +20,12 @@
 
 {
 	'name': "Web Form Edit Mode",
-	'description': "A web module that allow when loading a form view to open it on edit mode directly",
+	'description': """A web module that force edit mode when loading a form view
+	Contributors:
+		Mohamed ESSAKALI - messakali@gmail.com
+	""",
 	'author': "SYSMART info@sysmart.ma",
-	'site': "http://www.sysmart.ma"
+	'site': "http://www.sysmart.ma",
 	'category': 'Hidden',
 	'depends': ['base'],
 	'js': ['static/src/js/edit_form_view.js'],
