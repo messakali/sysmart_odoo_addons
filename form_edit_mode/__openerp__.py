@@ -28,5 +28,6 @@
 	'site': "http://www.sysmart.ma",
 	'category': 'Hidden',
 	'depends': ['base'],
+	'data': ['form_edit_view.xml'],
 	'js': ['static/src/js/edit_form_view.js'],
 }
